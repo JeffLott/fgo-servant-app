@@ -1,0 +1,17 @@
+[{
+    "id" : 1,
+    "name" : "Defense Up",
+    "description" : "Increases defense by a percentage."
+},{
+    "id" : 2,
+    "name" : "Attack Up",
+    "description" : "Increases attack by a percantage."
+},{
+    "id" : 3,
+    "name" : "Damage Cut",
+    "description" : "Decreases damage taken by a fixed amount."
+},{
+    "id" : 4,
+    "name" : "Damage Plus",
+    "description" : "Increases damage dealt by a fixed amount."
+}]
