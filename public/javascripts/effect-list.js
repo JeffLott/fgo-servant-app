@@ -1,4 +1,4 @@
-Vue.component('effect-list', {
+var effects = Vue.component('effect-list', {
     // The todo-item component now accepts a
     // "prop", which is like a custom attribute.
     // This prop is called todo.
@@ -44,8 +44,4 @@ Vue.component('effect-list', {
         return `effects/status-icons/${effect.id}.png`;
       }
     }
-  })
-
-  var app = new Vue({
-    el: '#app',
   })
